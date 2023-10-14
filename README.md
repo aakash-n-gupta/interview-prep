@@ -1,6 +1,16 @@
 # Interview Prepration
 Collects all the resources I need for interview prep, related to Computer Architecture, RTL and FPGA design, RISC-V and some embedded systems stuff. This is all the stuff KSP talked about and other things I have collected over a while through Linkedin questions, personal interview experiences and whatever I have learned through the years so far, with much more to cover in the future.
 
+Todo:
+### Add questions/topics related to:
+- Embedded Systems Topics
+- Chisel and UCB BAR related stuff
+- Chipyard - RocketChip, BOOM
+- FPGA specific stuff
+- RISC-V Assembly programming
+- Platform bringup/bootup for RISC-V
+- RISC-V Tools - spike, pk, qemu, compilers 
+
 ## The Topics to Cover
 This can be broken down into: 
 ### 1. RTL/FPGA + Digital design questions 
