@@ -11,7 +11,7 @@ Note: The pfds have either been downloaded or can be read on the eth safari webs
 2. Implementin precise interrupts in a pipelined processor
 3. Microarchitecture of Pentium 4
 4. A preliminary architecture for a basic data-flow processor,” ISCA 1974.
-5. Why Systolic Architectures?,” IEEE Computer, 1982
+5. Why Systolic Architectures? IEEE Computer, 1982
 6. Nvidia Tesla Architecture
 7. Memory Systems: Computing Handbook
 
