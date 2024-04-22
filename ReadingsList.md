@@ -7,19 +7,19 @@ K.S. Pandey or through the lecture slides of Onur Multu from ETH Zurich
 Reading Assignments: (In the order mentioned in lectures)
 Note: The pfds have either been downloaded or can be read on the eth safari website
 
-1. Microarchitecture of Superscalar processors
-2. Implementin precise interrupts in a pipelined processor
-3. Microarchitecture of Pentium 4
+1. Microarchitecture of Superscalar processors - Reading Complete (10th April, 2024)
+2. Implementing Precise Interrupts in a Pipelined Processor
+3. Microarchitecture of Pentium 4, 2004
 4. A preliminary architecture for a basic data-flow processor,” ISCA 1974.
 5. Why Systolic Architectures? IEEE Computer, 1982
 6. Nvidia Tesla Architecture
-7. Memory Systems: Computing Handbook
+7. Memory Systems: Computing Handbook - Read during office hours
 
 Suggested Readings:
 Checkpoint Repair for OoO machines
 The Alpha 21264 Microprocessor
 Virtual Memory: Issues of Implementation,” IEEE Computer, 1998
-An Efficient Algorithm for Exploiting Multiple Arithmetic Units: Tomasalu
+An Efficient Algorithm for Exploiting Multiple Arithmetic Units, Tomasalu's Algorithm
 An Evaluation of Branch Architectures, ISCA 1989
 Combining Branch Predictors, DEC WRL Technical Report, 1993.
 

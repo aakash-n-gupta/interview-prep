@@ -2,9 +2,13 @@
 
 Collects all the resources I need for interview prep, related to Computer Architecture, RTL and FPGA design, RISC-V and some embedded systems stuff. This is all the stuff KSP talked about and other things I have collected over a while through Linkedin questions, personal interview experiences and whatever I have learned through the years so far, with much more to cover in the future.
 
-Todo:
+Moving past the questions below and seminal research, I need to learn: 
+- Verilator
+- SystemVerilog
+- Design Complex HW blocks
+- Emulation and ASIC Synthesis of the said complex blocks
 
-## Add questions/topics related to
+## TODO: Add questions/topics related to
 
 - Embedded Systems Topics
 - Chisel and UCB BAR related stuff
